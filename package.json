@@ -1,0 +1,24 @@
+{
+  "name": "nodetictactoe",
+  "version": "1.0.0",
+  "description": "Node Tic Tac Toe API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbaker123/nodetictactoe.git"
+  },
+  "author": "Paul Baker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbaker123/nodetictactoe/issues"
+  },
+  "homepage": "https://github.com/pbaker123/nodetictactoe#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
