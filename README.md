@@ -1,4 +1,3 @@
-# nodetictactoe
 # Node Tic Tac Toe api
 
 This is a simple tic tac toe API built with an Express server.
